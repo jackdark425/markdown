@@ -18,6 +18,16 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
+# Cloudflare Workers 相关
+.dev.vars
+.wrangler/
+.mf/
+
+# 生成的文件
+*.docx
+test-result.docx
+cloud-test-result.docx
+
 # 临时文件
 temp/
 *.tmp

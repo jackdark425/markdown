@@ -1,0 +1,20 @@
+name = "markdown-to-docx"
+main = "src/index.ts"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+
+[[r2_buckets]]
+binding = "STORAGE"
+bucket_name = "docx-storage"
+
+[vars]
+DOWNLOAD_LINK_EXPIRY = "3600"
+
+# 开发环境配置
+[env.development]
+name = "markdown-to-docx-dev"
+workers_dev = true
+
+# 生产环境配置
+[env.production]
+workers_dev = true

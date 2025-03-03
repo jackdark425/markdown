@@ -1,0 +1,12 @@
+{
+  "name": "markdown-to-docx",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "cli:dev": "cd packages/cli && npm run start",
+    "worker:dev": "cd packages/worker && npm run dev",
+    "worker:deploy": "cd packages/worker && npm run deploy"
+  }
+}
