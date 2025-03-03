@@ -1,0 +1,23 @@
+# 依赖目录
+node_modules/
+
+# 二进制目录
+bin/
+
+# 日志文件
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 运行时数据
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 临时文件
+temp/
+*.tmp

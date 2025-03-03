@@ -1,0 +1,32 @@
+{
+  "default": {
+    "font": "微软雅黑",
+    "size": 24,
+    "color": "000000"
+  },
+  "heading1": {
+    "font": "微软雅黑",
+    "size": 40,
+    "color": "000000"
+  },
+  "heading2": {
+    "font": "微软雅黑",
+    "size": 36,
+    "color": "000000"
+  },
+  "heading3": {
+    "font": "微软雅黑",
+    "size": 32,
+    "color": "000000"
+  },
+  "code": {
+    "font": "Consolas",
+    "size": 20,
+    "color": "333333"
+  },
+  "table": {
+    "font": "微软雅黑",
+    "size": 20,
+    "color": "000000"
+  }
+}

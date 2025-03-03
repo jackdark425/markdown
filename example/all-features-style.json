@@ -1,0 +1,126 @@
+{
+  "document": {
+    "title": "功能综合测试文档",
+    "author": "MarkdownToDocx",
+    "subject": "功能测试",
+    "keywords": "markdown,docx,测试"
+  },
+  "toc": {
+    "enabled": true,
+    "title": "目录",
+    "maxLevel": 4,
+    "font": "宋体",
+    "size": 24,
+    "indent": {
+      "level1": 0,
+      "level2": 360,
+      "level3": 720,
+      "level4": 1080
+    }
+  },
+  "images": {
+    "maxWidth": 800,
+    "quality": 90,
+    "optimize": true
+  },
+  "header": {
+    "text": "MarkdownToDocx 功能测试",
+    "font": "宋体",
+    "size": 20,
+    "color": "666666",
+    "alignment": "center"
+  },
+  "footer": {
+    "text": "第 {page} 页",
+    "font": "宋体",
+    "size": 20,
+    "color": "666666",
+    "alignment": "center"
+  },
+  "watermark": {
+    "text": "测试文档",
+    "font": "黑体",
+    "size": 40,
+    "color": "DDDDDD",
+    "opacity": 0.1
+  },
+  "default": {
+    "font": "宋体",
+    "size": 24,
+    "color": "000000"
+  },
+  "heading1": {
+    "font": "微软雅黑",
+    "size": 36,
+    "color": "000000",
+    "bold": true
+  },
+  "heading2": {
+    "font": "微软雅黑",
+    "size": 32,
+    "color": "000000",
+    "bold": true
+  },
+  "heading3": {
+    "font": "微软雅黑",
+    "size": 28,
+    "color": "000000",
+    "bold": true
+  },
+  "heading4": {
+    "font": "微软雅黑",
+    "size": 24,
+    "color": "000000",
+    "bold": true
+  },
+  "code": {
+    "font": "Sarasa Mono SC",
+    "size": 21,
+    "color": "000000",
+    "background": "F5F5F5"
+  },
+  "quote": {
+    "font": "宋体",
+    "size": 24,
+    "color": "666666",
+    "italic": true
+  },
+  "list": {
+    "font": "宋体",
+    "size": 24,
+    "color": "000000"
+  },
+  "taskList": {
+    "font": "宋体",
+    "size": 24,
+    "color": "000000",
+    "checked": {
+      "color": "008000"
+    },
+    "unchecked": {
+      "color": "FF0000"
+    }
+  },
+  "table": {
+    "font": "宋体",
+    "size": 21,
+    "color": "000000",
+    "headerBackground": "F5F5F5"
+  },
+  "imageCaption": {
+    "font": "宋体",
+    "size": 21,
+    "color": "666666",
+    "italic": true
+  },
+  "page": {
+    "margin": {
+      "top": 1440,
+      "right": 1440,
+      "bottom": 1440,
+      "left": 1440
+    },
+    "size": "A4",
+    "orientation": "portrait"
+  }
+}
